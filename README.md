@@ -29,7 +29,8 @@
 
 <h2>Software Architecture</h2>
 
-
+![Animation](https://github.com/singhjaspreetb/shiksha-ai-miraz/assets/46000676/b6389fed-2603-4361-bf5e-641567821895)
+![map](https://github.com/singhjaspreetb/shiksha-ai-miraz/assets/46000676/9c353101-f627-4d41-b6d3-ea1a813ec875)
 
 <h2>Shiksha Miraz in Action</h2>
 
