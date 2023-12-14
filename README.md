@@ -3,6 +3,9 @@
 
 <p>Welcome to Shiksha Miraz, a groundbreaking mobile application developed during HackCBS 6.0, where the power of AI transforms education into a personalized learning ecosystem. Shiksha Miraz combines the forces of Flutter, Flask, Firebase, OpenAI, GitHub, Hugging Face, and LangChain to create a cutting-edge educational experience.</p>
 
+
+[Shiksha AI PPT](https://github.com/singhjaspreetb/shiksha-ai-miraz/files/13670844/shiksha.ppt.pdf)
+
 <h2>Key Features</h2>
 
 <p>Shiksha Miraz offers a plethora of features to enhance the learning journey:</p>
