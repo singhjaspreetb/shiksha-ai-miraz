@@ -5,6 +5,7 @@
 
 
 [Shiksha AI PPT](https://github.com/singhjaspreetb/shiksha-ai-miraz/files/13670844/shiksha.ppt.pdf)
+[Shiksha AI DEMO](https://www.youtube.com/watch?v=sjQntHaIfEc)
 
 <h2>Key Features</h2>
 
